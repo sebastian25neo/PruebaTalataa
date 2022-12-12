@@ -2,11 +2,11 @@
 **Funcionamiento de RESTful **
 Este es el README de funcionamiento de la RESTful API de películas de la prueba para ingresar a Talataa del consumo de la API de **https://www.themoviedb.org/documentation/api.**
 
+   `Nota: todo El método se escriben en mayusculas ejemplo    	    https://pruebathemovieapplication.azurewebsites.net/api/peliculas/GET`
 
-    Nota: todo El método se escriben en mayusculas ejemplo
-    https://pruebathemovieapplication.azurewebsites.net/api/peliculas/GET
 
-**El Endpoints principal es https://pruebathemovieapplication.azurewebsites.net/api/peliculas/ para las consultas de los métodos que se encuentra en minecraft azure**
+**El Endpoints principal es https://pruebathemovieapplication.azurewebsites.net/api/peliculas/ 
+para las consultas de los métodos que se encuentra en minecraft azure**
 
 Listo para el Endpoints  del método de **GET** para ver todas las películas se utiliza **https://pruebathemovieapplication.azurewebsites.net/api/peliculas/GET**  asi podremos ver todas las películas que nos trae la API de **https://www.themoviedb.org/documentation/api**
 
